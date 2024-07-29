@@ -1,0 +1,17 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+
+/* código omitido */
+
+
+:root {
+    --cor-de-fundo: #422E15;
+    --branco: #2f8f97;
+    --laranja: #ffffff;
+    --azul-degrade: linear-gradient(97.54deg, #422E15 35.49%, #422E15 165.37%);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
